@@ -1,0 +1,17 @@
+# General
+*.swp
+*~
+.DS_Store
+
+# Lisp code
+*.FASL
+*.fasl
+*.lisp-temp
+*.64xfasl
+
+# Archives
+*.7z
+*.tar
+*.tar.gz
+*.zip
+
