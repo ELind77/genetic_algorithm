@@ -1,0 +1,2232 @@
+
+Generation 0: Average standardized-fitness = 2.8008933e+12. 
+The best individual program of the population had a 
+standardized fitness measure of 1.3596529 and 10 hits. 
+It was: 
+(+ (RSIN *STOCK-ADJ-CLOSE*) *STOCK-CLOSE*)
+
+Generation 1: Average standardized-fitness = 3356405.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.3596529 and 10 hits. 
+It was: 
+(+ (RSIN *STOCK-ADJ-CLOSE*) *STOCK-CLOSE*)
+
+Generation 2: Average standardized-fitness = 1697881.1. 
+The best individual program of the population had a 
+standardized fitness measure of 1.3596529 and 10 hits. 
+It was: 
+(+ (RSIN *STOCK-ADJ-CLOSE*) *STOCK-CLOSE*)
+
+Generation 3: Average standardized-fitness = 3049995.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.3596529 and 10 hits. 
+It was: 
+(+ (RSIN *STOCK-ADJ-CLOSE*) *STOCK-CLOSE*)
+
+Generation 4: Average standardized-fitness = 34367.727. 
+The best individual program of the population had a 
+standardized fitness measure of 1.3050579 and 14 hits. 
+It was: 
+(+ (RSIN (* (RLOG (+ *STOCK-HIGH* (+ (+ (SRT *STOCK-CLOSE*) (% *STOCK-7-DAY* *STOCK-ADJ-CLOSE*)) (RLOG *STOCK-3-SLOPE*)))) (RLOG *STOCK-VOLUME*))) *STOCK-CLOSE*)
+
+Generation 5: Average standardized-fitness = 2986195.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.3050579 and 14 hits. 
+It was: 
+(+ (RSIN (* (RLOG (+ *STOCK-HIGH* (+ (+ (SRT *STOCK-CLOSE*) (% *STOCK-7-DAY* *STOCK-ADJ-CLOSE*)) (RLOG *STOCK-3-SLOPE*)))) (RLOG *STOCK-VOLUME*))) *STOCK-CLOSE*)
+
+Generation 6: Average standardized-fitness = 3341332.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.3050579 and 14 hits. 
+It was: 
+(+ (RSIN (* (RLOG (+ *STOCK-HIGH* (+ (+ (SRT *STOCK-CLOSE*) (% *STOCK-7-DAY* *STOCK-ADJ-CLOSE*)) (RLOG *STOCK-3-SLOPE*)))) (RLOG *STOCK-VOLUME*))) *STOCK-CLOSE*)
+
+Generation 7: Average standardized-fitness = 3057868.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.3050579 and 14 hits. 
+It was: 
+(+ (RSIN (* (RLOG (+ *STOCK-HIGH* (+ (+ (SRT *STOCK-CLOSE*) (% *STOCK-7-DAY* *STOCK-ADJ-CLOSE*)) (RLOG *STOCK-3-SLOPE*)))) (RLOG *STOCK-VOLUME*))) *STOCK-CLOSE*)
+
+Generation 8: Average standardized-fitness = 289118.44. 
+The best individual program of the population had a 
+standardized fitness measure of 1.294084 and 13 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (+ *STOCK-7-DAY* (RLOG (+ *STOCK-3-SLOPE* *STOCK-OPEN*))))))) *STOCK-CLOSE*)
+
+Generation 9: Average standardized-fitness = 4961076.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.294084 and 13 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (+ *STOCK-7-DAY* (RLOG (+ *STOCK-3-SLOPE* *STOCK-OPEN*))))))) *STOCK-CLOSE*)
+
+Generation 10: Average standardized-fitness = 5.789182e+25. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 11: Average standardized-fitness = 2708937.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 12: Average standardized-fitness = 2.291384e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 13: Average standardized-fitness = 1509814.1. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 14: Average standardized-fitness = 6403201.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 15: Average standardized-fitness = 137897.69. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 16: Average standardized-fitness = 99302.94. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 17: Average standardized-fitness = 1531101.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 18: Average standardized-fitness = 114995.555. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 19: Average standardized-fitness = 1.5203314e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 20: Average standardized-fitness = 5.035309e+18. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 21: Average standardized-fitness = 1543947.6. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 22: Average standardized-fitness = 60169.3. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 23: Average standardized-fitness = 195295.23. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 24: Average standardized-fitness = 309690.66. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 25: Average standardized-fitness = 16524.55. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 26: Average standardized-fitness = 2.2875778e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2244307 and 14 hits. 
+It was: 
+(+ (RSIN (+ *STOCK-7-DAY* (- (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (RSIN (- (+ *STOCK-3-SLOPE* *STOCK-OPEN*) *STOCK-3-SLOPE*))))) *STOCK-CLOSE*)
+
+Generation 27: Average standardized-fitness = 1.5509952e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 28: Average standardized-fitness = 1542919.4. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 29: Average standardized-fitness = 3.367148e+7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 30: Average standardized-fitness = 2.1635968e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 31: Average standardized-fitness = 1.0328166e+10. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 32: Average standardized-fitness = 1.0132115e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 33: Average standardized-fitness = 1556241.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 34: Average standardized-fitness = 2.2875601e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 35: Average standardized-fitness = 1876451.9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 36: Average standardized-fitness = 1541479.9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 37: Average standardized-fitness = 1.5006554e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 38: Average standardized-fitness = 17781.004. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 39: Average standardized-fitness = 1.5956806e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 40: Average standardized-fitness = 3165688.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 41: Average standardized-fitness = 2977045.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 42: Average standardized-fitness = 2.2876599e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 43: Average standardized-fitness = 1.4773548e+10. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 44: Average standardized-fitness = 3.4384528e+7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 45: Average standardized-fitness = 3340789.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 46: Average standardized-fitness = 2689665.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 47: Average standardized-fitness = 4573193.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 48: Average standardized-fitness = 6.867056e+7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 49: Average standardized-fitness = 3.7176987e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.2100654 and 15 hits. 
+It was: 
+(+ *STOCK-CLOSE* (* (% (RSIN (* (- (RLOG *STOCK-LOW*) *STOCK-ADJ-CLOSE*) (+ *STOCK-7-DAY* (* *STOCK-ADJ-CLOSE* *STOCK-CLOSE*)))) *STOCK-7-DAY*) *STOCK-CLOSE*))
+
+Generation 50: Average standardized-fitness = 6.291088e+12. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1922988 and 13 hits. 
+It was: 
+(+ *STOCK-CLOSE* (RSIN (- *STOCK-CLOSE* (+ (- (+ (+ (- *STOCK-CLOSE* *STOCK-HIGH*) *STOCK-3-SLOPE*) (+ *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*) *STOCK-3-SLOPE*))))
+
+Generation 51: Average standardized-fitness = 1.2306589e+10. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1922988 and 13 hits. 
+It was: 
+(+ *STOCK-CLOSE* (RSIN (- *STOCK-CLOSE* (+ (- (+ (+ (- *STOCK-CLOSE* *STOCK-HIGH*) *STOCK-3-SLOPE*) (+ *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*) *STOCK-3-SLOPE*))))
+
+Generation 52: Average standardized-fitness = 91763.41. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1922988 and 13 hits. 
+It was: 
+(+ *STOCK-CLOSE* (RSIN (- *STOCK-CLOSE* (+ (- (+ (+ (- *STOCK-CLOSE* *STOCK-HIGH*) *STOCK-3-SLOPE*) (+ *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*) *STOCK-3-SLOPE*))))
+
+Generation 53: Average standardized-fitness = 1.4487539e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1922988 and 13 hits. 
+It was: 
+(+ *STOCK-CLOSE* (RSIN (- *STOCK-CLOSE* (+ (- (+ (+ (- *STOCK-CLOSE* *STOCK-HIGH*) *STOCK-3-SLOPE*) (+ *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*) *STOCK-3-SLOPE*))))
+
+Generation 54: Average standardized-fitness = 30336.566. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1922988 and 13 hits. 
+It was: 
+(+ *STOCK-CLOSE* (RSIN (- *STOCK-CLOSE* (+ (- (+ (+ (- *STOCK-CLOSE* *STOCK-HIGH*) *STOCK-3-SLOPE*) (+ *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*) *STOCK-3-SLOPE*))))
+
+Generation 55: Average standardized-fitness = 8883598.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1922988 and 13 hits. 
+It was: 
+(+ *STOCK-CLOSE* (RSIN (- *STOCK-CLOSE* (+ (- (+ (+ (- *STOCK-CLOSE* *STOCK-HIGH*) *STOCK-3-SLOPE*) (+ *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*) *STOCK-3-SLOPE*))))
+
+Generation 56: Average standardized-fitness = 1.4853312e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 57: Average standardized-fitness = 1537286.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 58: Average standardized-fitness = 1.4500984e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 59: Average standardized-fitness = 3020583.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 60: Average standardized-fitness = 1736162.1. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 61: Average standardized-fitness = 1.4964138e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 62: Average standardized-fitness = 1.4487255e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 63: Average standardized-fitness = 1560833.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 64: Average standardized-fitness = 1.4487273e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 65: Average standardized-fitness = 1.4811198e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 66: Average standardized-fitness = 1.4487495e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 67: Average standardized-fitness = 8.3251644e+15. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 68: Average standardized-fitness = 1.4487332e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 69: Average standardized-fitness = 2.8906208e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 70: Average standardized-fitness = 30076.348. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 71: Average standardized-fitness = 1.5145536e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 72: Average standardized-fitness = 14973.547. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 73: Average standardized-fitness = 1283834.6. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 74: Average standardized-fitness = 14958.021. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 75: Average standardized-fitness = 2984443.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1516755 and 16 hits. 
+It was: 
+(+ (RSIN (% (+ *STOCK-CLOSE* (RSIN (RSIN (RSIN (- *STOCK-3-SLOPE* *STOCK-3-SLOPE*))))) *STOCK-3-SLOPE*)) *STOCK-CLOSE*)
+
+Generation 76: Average standardized-fitness = 20277.963. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 77: Average standardized-fitness = 1521260.6. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 78: Average standardized-fitness = 2.0862342e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 79: Average standardized-fitness = 1580693.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 80: Average standardized-fitness = 14963.148. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 81: Average standardized-fitness = 31.525991. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 82: Average standardized-fitness = 44859.54. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 83: Average standardized-fitness = 25813.283. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 84: Average standardized-fitness = 1525498.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 85: Average standardized-fitness = 1846753.6. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 86: Average standardized-fitness = 4553439.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 87: Average standardized-fitness = 1.4754709e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 88: Average standardized-fitness = 1.4893013e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 89: Average standardized-fitness = 1520051.6. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 90: Average standardized-fitness = 4.4226112e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.1445783 and 15 hits. 
+It was: 
+(+ (RSIN (+ (- (+ *STOCK-3-SLOPE* (+ *STOCK-ADJ-CLOSE* *STOCK-LOW*))
+               (+ (+ (RSIN (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) (+ (SRT *STOCK-OPEN*) *STOCK-HIGH*))) (+ (+ *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-3-SLOPE*)) *STOCK-3-SLOPE*))
+            *STOCK-3-SLOPE*))
+   *STOCK-CLOSE*)
+
+Generation 91: Average standardized-fitness = 1.527103e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0981182 and 16 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (- (- (RSIN (+ (RSIN (- *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-CLOSE*))
+                     (RSIN (+ (RLOG (% *STOCK-3-SLOPE* (RSIN *STOCK-CLOSE*))) (- (+ *STOCK-7-DAY* *STOCK-3-SLOPE*) (RSIN *STOCK-7-DAY*)))))
+                  *STOCK-3-SLOPE*)
+               *STOCK-3-SLOPE*)))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 92: Average standardized-fitness = 1531534.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0981182 and 16 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (- (- (RSIN (+ (RSIN (- *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-CLOSE*))
+                     (RSIN (+ (RLOG (% *STOCK-3-SLOPE* (RSIN *STOCK-CLOSE*))) (- (+ *STOCK-7-DAY* *STOCK-3-SLOPE*) (RSIN *STOCK-7-DAY*)))))
+                  *STOCK-3-SLOPE*)
+               *STOCK-3-SLOPE*)))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 93: Average standardized-fitness = 1.4894365e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0981182 and 16 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (- (- (RSIN (+ (RSIN (- *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-CLOSE*))
+                     (RSIN (+ (RLOG (% *STOCK-3-SLOPE* (RSIN *STOCK-CLOSE*))) (- (+ *STOCK-7-DAY* *STOCK-3-SLOPE*) (RSIN *STOCK-7-DAY*)))))
+                  *STOCK-3-SLOPE*)
+               *STOCK-3-SLOPE*)))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 94: Average standardized-fitness = 22897.162. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0981182 and 16 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (- (- (RSIN (+ (RSIN (- *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-CLOSE*))
+                     (RSIN (+ (RLOG (% *STOCK-3-SLOPE* (RSIN *STOCK-CLOSE*))) (- (+ *STOCK-7-DAY* *STOCK-3-SLOPE*) (RSIN *STOCK-7-DAY*)))))
+                  *STOCK-3-SLOPE*)
+               *STOCK-3-SLOPE*)))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 95: Average standardized-fitness = 2814553.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0981182 and 16 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (- (- (RSIN (+ (RSIN (- *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-CLOSE*))
+                     (RSIN (+ (RLOG (% *STOCK-3-SLOPE* (RSIN *STOCK-CLOSE*))) (- (+ *STOCK-7-DAY* *STOCK-3-SLOPE*) (RSIN *STOCK-7-DAY*)))))
+                  *STOCK-3-SLOPE*)
+               *STOCK-3-SLOPE*)))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 96: Average standardized-fitness = 30747.629. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0981182 and 16 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (- (- (RSIN (+ (RSIN (- *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-CLOSE*))
+                     (RSIN (+ (RLOG (% *STOCK-3-SLOPE* (RSIN *STOCK-CLOSE*))) (- (+ *STOCK-7-DAY* *STOCK-3-SLOPE*) (RSIN *STOCK-7-DAY*)))))
+                  *STOCK-3-SLOPE*)
+               *STOCK-3-SLOPE*)))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 97: Average standardized-fitness = 3115067.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0981182 and 16 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (- (- (RSIN (+ (RSIN (- *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-CLOSE*))
+                     (RSIN (+ (RLOG (% *STOCK-3-SLOPE* (RSIN *STOCK-CLOSE*))) (- (+ *STOCK-7-DAY* *STOCK-3-SLOPE*) (RSIN *STOCK-7-DAY*)))))
+                  *STOCK-3-SLOPE*)
+               *STOCK-3-SLOPE*)))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 98: Average standardized-fitness = 4258142.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0981182 and 16 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (- (- (RSIN (+ (RSIN (- *STOCK-CLOSE* *STOCK-3-SLOPE*)) *STOCK-CLOSE*))
+                     (RSIN (+ (RLOG (% *STOCK-3-SLOPE* (RSIN *STOCK-CLOSE*))) (- (+ *STOCK-7-DAY* *STOCK-3-SLOPE*) (RSIN *STOCK-7-DAY*)))))
+                  *STOCK-3-SLOPE*)
+               *STOCK-3-SLOPE*)))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 99: Average standardized-fitness = 32664.797. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 100: Average standardized-fitness = 34399.4. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 101: Average standardized-fitness = 1.373325e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 102: Average standardized-fitness = 1495396.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 103: Average standardized-fitness = 965121.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 104: Average standardized-fitness = 2.2875775e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 105: Average standardized-fitness = 2.4147276e+7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 106: Average standardized-fitness = 1516723.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 107: Average standardized-fitness = 1.5102971e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 108: Average standardized-fitness = 21.280668. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 109: Average standardized-fitness = 8.24412e+12. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 110: Average standardized-fitness = 1.5469026e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 111: Average standardized-fitness = 61255.52. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 112: Average standardized-fitness = 3.2403505e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 113: Average standardized-fitness = 1541633.1. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 114: Average standardized-fitness = 49059.547. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 115: Average standardized-fitness = 1554895.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 116: Average standardized-fitness = 1611394.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 117: Average standardized-fitness = 2.2830756e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 118: Average standardized-fitness = 1498989.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 119: Average standardized-fitness = 2.2875621e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 120: Average standardized-fitness = 26741.475. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 121: Average standardized-fitness = 46235.492. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 122: Average standardized-fitness = 1523366.9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 123: Average standardized-fitness = 2142056.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 124: Average standardized-fitness = 18408.885. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 125: Average standardized-fitness = 164670.14. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 126: Average standardized-fitness = 2.3205532e+7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 127: Average standardized-fitness = 1509442.9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 128: Average standardized-fitness = 1761755.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 129: Average standardized-fitness = 6.04456e+13. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 130: Average standardized-fitness = 1.4318107e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 131: Average standardized-fitness = 45936.684. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 132: Average standardized-fitness = 2985091.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 133: Average standardized-fitness = 4366.214. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 134: Average standardized-fitness = 1684298.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 135: Average standardized-fitness = 2.2875636e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 136: Average standardized-fitness = 39438.047. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 137: Average standardized-fitness = 1524699.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 138: Average standardized-fitness = 3.5545375e+10. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 139: Average standardized-fitness = 17876.043. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 140: Average standardized-fitness = 1788768.9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 141: Average standardized-fitness = 2.287607e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 142: Average standardized-fitness = 8.409895. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 143: Average standardized-fitness = 2.317416e+13. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 144: Average standardized-fitness = 4.497162e+13. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 145: Average standardized-fitness = 1549416.1. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 146: Average standardized-fitness = 1.7664088e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 147: Average standardized-fitness = 40682.984. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 148: Average standardized-fitness = 2888727.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 149: Average standardized-fitness = 5.8311196e+7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 150: Average standardized-fitness = 2.2595955e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 151: Average standardized-fitness = 4470229.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 152: Average standardized-fitness = 27605.16. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 153: Average standardized-fitness = 2183600.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 154: Average standardized-fitness = 27238.473. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 155: Average standardized-fitness = 24975.861. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 156: Average standardized-fitness = 2.3093714e+13. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 157: Average standardized-fitness = 1511384.6. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 158: Average standardized-fitness = 331384.72. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 159: Average standardized-fitness = 1542259.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 160: Average standardized-fitness = 6427.858. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 161: Average standardized-fitness = 2.2875777e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 162: Average standardized-fitness = 114660.6. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 163: Average standardized-fitness = 3027921.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 164: Average standardized-fitness = 6657036.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 165: Average standardized-fitness = 16682.248. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 166: Average standardized-fitness = 40192.77. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 167: Average standardized-fitness = 29682.58. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 168: Average standardized-fitness = 264.70532. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 169: Average standardized-fitness = 107844.805. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 170: Average standardized-fitness = 3058011.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 171: Average standardized-fitness = 4.6833124e+7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 172: Average standardized-fitness = 9.321833e+10. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 173: Average standardized-fitness = 2.2879402e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 174: Average standardized-fitness = 48802.36. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 175: Average standardized-fitness = 2193654.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 176: Average standardized-fitness = 9.6965685. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 177: Average standardized-fitness = 5.1357538e+14. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 178: Average standardized-fitness = 3048399.0. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 179: Average standardized-fitness = 49117.28. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 180: Average standardized-fitness = 2.2875775e+11. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 181: Average standardized-fitness = 3.081806e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 182: Average standardized-fitness = 16457.697. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 183: Average standardized-fitness = 7.9122793e+14. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 184: Average standardized-fitness = 28099.32. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 185: Average standardized-fitness = 1.5968364e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 186: Average standardized-fitness = 45631.027. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 187: Average standardized-fitness = 1.7424292e+12. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 188: Average standardized-fitness = 2733806.7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 189: Average standardized-fitness = 2.287378e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 190: Average standardized-fitness = 1252.8688. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 191: Average standardized-fitness = 1.5090618e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 192: Average standardized-fitness = 2.2957482e+7. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 193: Average standardized-fitness = 15072.362. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 194: Average standardized-fitness = 1.6690497e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 195: Average standardized-fitness = 2247246.2. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 196: Average standardized-fitness = 6.148116e+9. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 197: Average standardized-fitness = 1573790.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 198: Average standardized-fitness = 2.699934e+8. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+Generation 199: Average standardized-fitness = 25869.355. 
+The best individual program of the population had a 
+standardized fitness measure of 1.0407912 and 14 hits. 
+It was: 
+(- (- *STOCK-CLOSE*
+      (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+               (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                             (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                (- *STOCK-CLOSE*
+                                   (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                      (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                     *STOCK-3-SLOPE*)
+                  *STOCK-CLOSE*))))
+   (RLOG *STOCK-3-SLOPE*))
+
+
+Parameters used for this run.
+=================================================
+Number of fitness cases:                          30
+Maximum number of Generations:                    200
+Size of Population:                               1000
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        6
+Maximum depth of individuals after crossover:     30
+Fitness-proportionate reproduction fraction:      0.05
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0
+
+Best of run individual program:
+ Generation:       99
+
+ Hits:            14
+ Std Fit Vector:  #(1.2301788 1.5110474 0.46388245 1.8024979 0.031295776 0.09463501 2.9131622 1.146904 1.541542 1.5744476 0.6056595 0.040039062 0.16300964 2.9225311 0.49056244 0.50891113
+                    1.6335602 0.55174255 1.5468597 1.3378754 0.68899536 1.1131439 1.3647919 0.17139435 0.88510895 0.7433243 1.7398605 0.09700012 1.1911087 1.0460587)
+ Std Fit (sum):   31.15113
+ Std Fit Avg %:   1.0407912
+ Function Nodes:  62
+ Function Depth:  17
+ Function:        (- (- *STOCK-CLOSE*
+                        (RSIN (- (RSIN (RSIN (+ *STOCK-CLOSE* (RSIN *STOCK-CLOSE*))))
+                                 (+ (+ (SRT (+ (- (- *STOCK-30-DAY* (SRT (+ (RSIN (- *STOCK-CLOSE* (% *STOCK-3-SLOPE* *STOCK-LOW*))) *STOCK-3-SLOPE*))) *STOCK-3-SLOPE*)
+                                               (% (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                                                  (- *STOCK-CLOSE*
+                                                     (- (+ (RSIN (RSIN *STOCK-ADJ-CLOSE*)) (+ (RSIN (- *STOCK-CLOSE* (+ *STOCK-7-DAY* *STOCK-OPEN*))) *STOCK-CLOSE*))
+                                                        (% (- *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* (+ *STOCK-3-SLOPE* *STOCK-3-SLOPE*)))) *STOCK-HIGH*))))))
+                                       *STOCK-3-SLOPE*)
+                                    *STOCK-CLOSE*))))
+                     (RLOG *STOCK-3-SLOPE*))
+

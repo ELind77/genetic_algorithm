@@ -1,0 +1,10 @@
+ Std Fit Avg %:   1.749535
+ Std Fit Avg %:   1.549782
+ Std Fit Avg %:   1.5172652
+ Std Fit Avg %:   1.3191286
+ Std Fit Avg %:   1.3925176
+ Std Fit Avg %:   1.2791356
+ Std Fit Avg %:   1.109904
+ Std Fit Avg %:   1.1366882
+ Std Fit Avg %:   1.1899785
+ Std Fit Avg %:   1.3162029

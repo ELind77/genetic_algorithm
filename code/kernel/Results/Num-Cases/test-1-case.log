@@ -1,0 +1,34 @@
+
+Generation 0: Average standardized-fitness = 3.8940542e+12. 
+The best individual program of the population had a 
+standardized fitness measure of 0.0049952045 and 1 hit. 
+It was: 
+(- *STOCK-HIGH* (RLOG *STOCK-OPEN*))
+
+
+Parameters used for this run.
+=================================================
+Number of fitness cases:                          1
+Maximum number of Generations:                    200
+Size of Population:                               1000
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        6
+Maximum depth of individuals after crossover:     30
+Fitness-proportionate reproduction fraction:      0.1
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0
+
+Best of run individual program:
+ Generation:       0
+
+ Hits:            1
+ Std Fit Vector:  #(0.0048828125)
+ Std Fit (sum):   0.0048828125
+ Std Fit Avg %:   0.0049952045
+ Function Nodes:  4
+ Function Depth:  3
+ Function:        (- *STOCK-HIGH* (RLOG *STOCK-OPEN*))
+

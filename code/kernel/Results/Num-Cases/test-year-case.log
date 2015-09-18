@@ -1,0 +1,1263 @@
+
+Generation 0: Average standardized-fitness = 2.7922397e+12. 
+The best individual program of the population had a 
+standardized fitness measure of 1.5605029 and 92 hits. 
+It was: 
+(+ (RSIN *STOCK-ADJ-CLOSE*) *STOCK-CLOSE*)
+
+Generation 1: Average standardized-fitness = 6179817.5. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 2: Average standardized-fitness = 39979.96. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 3: Average standardized-fitness = 26954.893. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 4: Average standardized-fitness = 26509.848. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 5: Average standardized-fitness = 2862.163. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 6: Average standardized-fitness = 158.74527. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 7: Average standardized-fitness = 102.4278. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 8: Average standardized-fitness = 87.47138. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 9: Average standardized-fitness = 84.066666. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 10: Average standardized-fitness = 23.161236. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 11: Average standardized-fitness = 19.238605. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 12: Average standardized-fitness = 41.386166. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 13: Average standardized-fitness = 19.819134. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 14: Average standardized-fitness = 14.400309. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 15: Average standardized-fitness = 18.835497. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 16: Average standardized-fitness = 15.395699. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 17: Average standardized-fitness = 13.155311. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 18: Average standardized-fitness = 12.06963. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 19: Average standardized-fitness = 26.287308. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 20: Average standardized-fitness = 18.524382. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 21: Average standardized-fitness = 23.916624. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 22: Average standardized-fitness = 12.9415865. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 23: Average standardized-fitness = 12.5987425. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 24: Average standardized-fitness = 14.116749. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 25: Average standardized-fitness = 12.346038. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 26: Average standardized-fitness = 10.273937. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 27: Average standardized-fitness = 10.665612. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 28: Average standardized-fitness = 8.905056. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 29: Average standardized-fitness = 10.749039. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 30: Average standardized-fitness = 8.10094. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 31: Average standardized-fitness = 8.496565. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 32: Average standardized-fitness = 9.579134. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 33: Average standardized-fitness = 10.649967. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 34: Average standardized-fitness = 8.591824. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 35: Average standardized-fitness = 8.8885975. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 36: Average standardized-fitness = 8.779669. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 37: Average standardized-fitness = 8.196209. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 38: Average standardized-fitness = 10.948301. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 39: Average standardized-fitness = 9.560586. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 40: Average standardized-fitness = 8.583116. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 41: Average standardized-fitness = 8.279024. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 42: Average standardized-fitness = 8.093438. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 43: Average standardized-fitness = 8.289095. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 44: Average standardized-fitness = 8.487211. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 45: Average standardized-fitness = 8.28396. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 46: Average standardized-fitness = 10.1309805. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 47: Average standardized-fitness = 8.064166. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 48: Average standardized-fitness = 9.042605. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 49: Average standardized-fitness = 7.3786697. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 50: Average standardized-fitness = 9.143939. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 51: Average standardized-fitness = 9.832698. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 52: Average standardized-fitness = 8.852952. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 53: Average standardized-fitness = 8.754914. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 54: Average standardized-fitness = 6.994265. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 55: Average standardized-fitness = 8.167481. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 56: Average standardized-fitness = 11.207206. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 57: Average standardized-fitness = 7.7827125. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 58: Average standardized-fitness = 8.164393. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 59: Average standardized-fitness = 9.332262. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 60: Average standardized-fitness = 9.133594. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 61: Average standardized-fitness = 9.728465. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 62: Average standardized-fitness = 8.451263. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 63: Average standardized-fitness = 7.6682143. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 64: Average standardized-fitness = 9.334356. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 65: Average standardized-fitness = 8.8346. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 66: Average standardized-fitness = 8.24111. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 67: Average standardized-fitness = 9.114537. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 68: Average standardized-fitness = 8.535069. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 69: Average standardized-fitness = 8.924991. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 70: Average standardized-fitness = 8.524466. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 71: Average standardized-fitness = 9.313238. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 72: Average standardized-fitness = 8.638442. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 73: Average standardized-fitness = 8.432004. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 74: Average standardized-fitness = 7.549574. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 75: Average standardized-fitness = 8.743213. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 76: Average standardized-fitness = 8.935413. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 77: Average standardized-fitness = 8.63681. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 78: Average standardized-fitness = 8.435148. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 79: Average standardized-fitness = 9.1290045. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 80: Average standardized-fitness = 9.021259. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 81: Average standardized-fitness = 8.33516. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 82: Average standardized-fitness = 8.545595. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 83: Average standardized-fitness = 9.712549. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 84: Average standardized-fitness = 7.6546617. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 85: Average standardized-fitness = 8.933162. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 86: Average standardized-fitness = 9.726236. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 87: Average standardized-fitness = 9.725772. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 88: Average standardized-fitness = 10.216275. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 89: Average standardized-fitness = 11.089579. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 90: Average standardized-fitness = 9.7249775. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 91: Average standardized-fitness = 9.114407. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 92: Average standardized-fitness = 8.1412525. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 93: Average standardized-fitness = 9.422098. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 94: Average standardized-fitness = 9.513539. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 95: Average standardized-fitness = 9.720186. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 96: Average standardized-fitness = 8.737329. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 97: Average standardized-fitness = 8.932036. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 98: Average standardized-fitness = 8.137699. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 99: Average standardized-fitness = 8.9238405. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 100: Average standardized-fitness = 9.017285. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 101: Average standardized-fitness = 9.793958. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 102: Average standardized-fitness = 8.815655. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 103: Average standardized-fitness = 9.316375. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 104: Average standardized-fitness = 8.8448305. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 105: Average standardized-fitness = 7.7672133. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 106: Average standardized-fitness = 10.214651. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 107: Average standardized-fitness = 8.256323. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 108: Average standardized-fitness = 8.632702. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 109: Average standardized-fitness = 7.939048. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 110: Average standardized-fitness = 8.921454. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 111: Average standardized-fitness = 9.706705. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 112: Average standardized-fitness = 9.120939. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 113: Average standardized-fitness = 8.24436. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 114: Average standardized-fitness = 9.315504. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 115: Average standardized-fitness = 7.9351487. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 116: Average standardized-fitness = 8.513845. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 117: Average standardized-fitness = 9.89203. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 118: Average standardized-fitness = 8.534. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 119: Average standardized-fitness = 8.727928. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 120: Average standardized-fitness = 9.615375. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 121: Average standardized-fitness = 8.136849. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 122: Average standardized-fitness = 7.64637. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 123: Average standardized-fitness = 9.502223. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 124: Average standardized-fitness = 9.307077. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 125: Average standardized-fitness = 8.216822. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 126: Average standardized-fitness = 9.986851. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 127: Average standardized-fitness = 8.911013. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 128: Average standardized-fitness = 10.089408. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 129: Average standardized-fitness = 9.315478. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 130: Average standardized-fitness = 8.718199. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 131: Average standardized-fitness = 9.106838. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 132: Average standardized-fitness = 10.576805. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 133: Average standardized-fitness = 7.7356305. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 134: Average standardized-fitness = 9.496331. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 135: Average standardized-fitness = 9.796322. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 136: Average standardized-fitness = 8.528954. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 137: Average standardized-fitness = 8.719138. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 138: Average standardized-fitness = 8.62983. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 139: Average standardized-fitness = 6.9652424. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 140: Average standardized-fitness = 8.529977. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 141: Average standardized-fitness = 10.390083. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 142: Average standardized-fitness = 9.508438. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 143: Average standardized-fitness = 8.719301. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 144: Average standardized-fitness = 9.512668. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 145: Average standardized-fitness = 8.425576. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 146: Average standardized-fitness = 8.71478. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 147: Average standardized-fitness = 7.942085. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 148: Average standardized-fitness = 8.627489. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 149: Average standardized-fitness = 8.332962. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 150: Average standardized-fitness = 7.568735. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 151: Average standardized-fitness = 9.5310955. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 152: Average standardized-fitness = 8.646715. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 153: Average standardized-fitness = 8.726311. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 154: Average standardized-fitness = 8.429798. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 155: Average standardized-fitness = 8.226217. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 156: Average standardized-fitness = 8.818788. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 157: Average standardized-fitness = 9.124265. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 158: Average standardized-fitness = 11.072264. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 159: Average standardized-fitness = 9.291776. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 160: Average standardized-fitness = 9.400377. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 161: Average standardized-fitness = 7.541389. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 162: Average standardized-fitness = 9.026211. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 163: Average standardized-fitness = 9.31523. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 164: Average standardized-fitness = 9.611418. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 165: Average standardized-fitness = 8.1465645. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 166: Average standardized-fitness = 7.5504255. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 167: Average standardized-fitness = 9.618801. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 168: Average standardized-fitness = 9.026101. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 169: Average standardized-fitness = 8.522922. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 170: Average standardized-fitness = 7.6382504. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 171: Average standardized-fitness = 8.721172. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 172: Average standardized-fitness = 8.633559. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 173: Average standardized-fitness = 9.320475. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 174: Average standardized-fitness = 10.695559. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 175: Average standardized-fitness = 8.817671. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 176: Average standardized-fitness = 9.994296. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 177: Average standardized-fitness = 9.706569. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 178: Average standardized-fitness = 9.123295. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 179: Average standardized-fitness = 8.928193. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 180: Average standardized-fitness = 10.195482. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 181: Average standardized-fitness = 9.211881. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 182: Average standardized-fitness = 8.42493. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 183: Average standardized-fitness = 8.71266. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 184: Average standardized-fitness = 9.093875. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 185: Average standardized-fitness = 6.4328995. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 186: Average standardized-fitness = 9.488231. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 187: Average standardized-fitness = 8.120536. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 188: Average standardized-fitness = 8.905193. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 189: Average standardized-fitness = 8.118087. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 190: Average standardized-fitness = 9.014692. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 191: Average standardized-fitness = 8.2283945. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 192: Average standardized-fitness = 10.779668. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 193: Average standardized-fitness = 9.893636. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 194: Average standardized-fitness = 8.703982. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 195: Average standardized-fitness = 10.676401. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 196: Average standardized-fitness = 10.004796. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 197: Average standardized-fitness = 9.498751. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 198: Average standardized-fitness = 8.025718. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+Generation 199: Average standardized-fitness = 9.400331. 
+The best individual program of the population had a 
+standardized fitness measure of 1.466803 and 100 hits. 
+It was: 
+(+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+
+
+Parameters used for this run.
+=================================================
+Number of fitness cases:                          253
+Maximum number of Generations:                    200
+Size of Population:                               1000
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        6
+Maximum depth of individuals after crossover:     30
+Fitness-proportionate reproduction fraction:      0.1
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0
+
+Best of run individual program:
+ Generation:       1
+
+ Hits:            100
+ Std Fit Vector:  #(2.1588135 1.4077911 0.27463531 3.4681473 0.4640503 1.2926712 1.2785492
+                    1.6593857 2.4103851 1.2726517 0.72507477 1.721283 1.2046432 2.9046402
+                    0.4059372 0.64823914 2.9744644 2.3356628 0.6579819 1.7802811 1.7206192
+                    1.8332596 2.6063614 1.1631851 0.0872879 1.0858841 0.47309875 3.4084702
+                    1.2297516 2.2206726 0.84737396 0.28113556 0.4098053 1.8535385 0.7770691
+                    1.5288925 2.9640045 0.8938217 0.96564484 0.4761505 1.088417 0.08647156
+                    2.5280151 0.34685516 1.7823029 1.3406372 1.8536148 4.0307693 0.02445221
+                    1.5271225 0.9141617 3.969284 1.0792542 2.9155884 0.7841263 2.7762146
+                    1.5366745 0.9686127 0.8532715 1.9030228 4.0907974 0.20568848 3.1082535
+                    1.7771606 1.4705276 6.7214737 4.3504715 4.017273 0.5414276 0.59937286
+                    0.40653992 1.2232132 1.2194443 4.1032715 2.465767 0.035842896 0.9028778
+                    3.837616 0.98108673 1.4708862 1.4157104 1.9693832 0.97463226 1.1015244
+                    3.5892105 0.09074402 2.224205 3.5315247 1.7880478 2.5387497 0.8373184
+                    1.349083 0.5310898 2.6516418 0.7825241 0.64482117 0.72346497 0.5888519
+                    1.7778931 0.6559601 2.2934647 0.10056305 1.9133453 0.1197052 2.186737
+                    0.21162415 2.3953629 1.4037552 1.1071091 2.2214508 0.0918808 0.2833252
+                    0.7165985 2.5373993 1.533432 3.27536 3.081459 1.7306442 0.96860504 1.0256577
+                    3.7726822 1.1699905 0.103637695 1.9734192 0.029624939 0.024269104 1.5267868
+                    1.0847702 0.9040909 2.6650467 0.83968353 2.1629639 0.03011322 1.4135666
+                    2.0279312 2.4756546 2.219307 364/113 1.3475952 0.22283936 1.342453 2.5885696
+                    2.7885056 2.1608658 0.41030884 0.9662323 1.224762 2.4696884 1.8333664
+                    1.4038315 0.025680542 0.9128494 1.5863419 3.5236664 0.17025757 2.464859
+                    0.5974884 2.6038284 2.5288925 2.1597137 1.1610565 0.97509766 3.2461548
+                    3.1750565 0.83255005 1.3467255 0.7811432 0.8516693 2.033287 0.9709625
+                    1.0304794 2.5253677 1.7740097 2.9748154 0.4698944 2.472725 1.0319214 1.772438
+                    1.8550415 2.1517563 1.8984833 1.4166031 2.467125 0.65257263 2.5238342
+                    2.0486145 2.6588745 1.8573074 1.9728165 2.0315857 0.33850098 4.5952682
+                    1.6504288 0.2120285 3.3388367 1.4007797 2.1414032 0.5976944 0.14499664
+                    2.5967178 4.331131 2.2707825 6.3454895 0.59672546 2.157318 0.27867126
+                    1.6472015 0.02520752 0.8441925 0.39808655 0.22619629 1.1561279 0.10371399
+                    3.9057465 1.3299408 2.037918 1.912857 2.279068 2.7877045 0.97065735 1.4726257
+                    2.7221985 3.2207336 4.1488953 0.041168213 1.3385162 0.7552185 2.544632
+                    1.0437164 2.0616913 3.657196 1.1401215 0.8436127 5.7951813 3.1045074 4.023834
+                    1.1598816 4.3161163 0.15986633 0.603714 1.7775116 2.476944 0.912735 1.7824097
+                    0.47123718 4.9744263 6.2200623 0.46949768 1.6955872 5.411606 0.28945923
+                    0.027648926 0.2748413)
+ Std Fit (sum):   432.16916
+ Std Fit Avg %:   1.466803
+ Function Nodes:  5
+ Function Depth:  3
+ Function:        (+ (% *STOCK-ADJ-CLOSE* *STOCK-OPEN*) *STOCK-CLOSE*)
+

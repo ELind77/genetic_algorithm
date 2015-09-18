@@ -1,0 +1,219 @@
+CL-USER(87): (test2 31 111 80 250 750)
+
+Parameters used for this run.
+=============================
+Maximum number of Generations:                    250
+Size of Population:                               750
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        4
+Maximum depth of individuals after crossover:     25
+Fitness-proportionate reproduction fraction:      0.01
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Number of fitness cases:                          80
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0d0
+
+The best-of-run individual program for this run was found on 
+generation 185 and had a standardized fitness measure of 55.861675 and 56 hits. 
+It was:
+(- (- *STOCK-CLOSE* (SIN (- (RLOG (- *STOCK-ADJ-CLOSE* *STOCK-3-SLOPE*)) *STOCK-OPEN*)))
+   *STOCK-ADJ-CLOSE*)
+
+Program:          (- (- *STOCK-CLOSE* (SIN (- (RLOG #) *STOCK-OPEN*))) *STOCK-ADJ-CLOSE*)
+ Raw Fitness:     #(76.46104 77.284935 71.10307 77.93267 63.394287 70.160355 77.33623 64.74575
+                    63.141895 77.30435 ...)
+ Std Fit Vector:  #(0.59103394 0.215065 1.1469269 0.06266785 0.72571564 2.0403519 0.7162247
+                    2.2457504 1.9781075 0.6956482 ...)
+ Std Fit (sum):   55.861675
+ Std Fit % Avg:   0.9701024
+ 
+ 
+ 
+ 
+ 
+ CL-USER(88): (test2 12820 12900 80 250 750)
+ 
+ Parameters used for this run.
+=============================
+Maximum number of Generations:                    250
+Size of Population:                               750
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        4
+Maximum depth of individuals after crossover:     25
+Fitness-proportionate reproduction fraction:      0.01
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Number of fitness cases:                          80
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0d0
+ 
+ 
+The best-of-run individual program for this run was found on 
+generation 4 and had a standardized fitness measure of 13.077719 and 58 hits. 
+It was:
+(SRT (* (- *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-CLOSE*))
+
+Program:          (SRT (* (- *STOCK-CLOSE* *STOCK-3-SLOPE*) *STOCK-CLOSE*))
+ Raw Fitness:     #(22.304998 23.276482 23.341524 21.678331 21.421633 21.878273 20.901655
+                    23.33999 23.511656 23.60324 ...)
+ Std Fit Vector:  #(0.23500252 0.056482315 0.048475266 0.66833115 0.031633377 0.18827248
+                    0.0816555 0.12000847 0.17834473 0.076761246 ...)
+ Std Fit (sum):   13.077719
+ Std Fit % Avg:   0.73647106
+
+
+
+
+
+CL-USER(89): (test2 12870 12900 30 250 750)
+
+Parameters used for this run.
+=============================
+Maximum number of Generations:                    250
+Size of Population:                               750
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        4
+Maximum depth of individuals after crossover:     25
+Fitness-proportionate reproduction fraction:      0.01
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Number of fitness cases:                          30
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0d0
+8392672 bytes have been tenured, next gc will be global.
+See the documentation for variable *GLOBAL-GC-BEHAVIOR* for more information.
+
+
+
+The best-of-run individual program for this run was found on 
+generation 38 and had a standardized fitness measure of 4.5073776 and 26 hits. 
+It was:
+(- *STOCK-ADJ-CLOSE* (- (SIN (SRT *STOCK-CLOSE*)) (SIN *STOCK-ADJ-CLOSE*)))
+
+Program:          (- *STOCK-ADJ-CLOSE* (- (SIN (SRT *STOCK-CLOSE*)) (SIN *STOCK-ADJ-CLOSE*)))
+ Raw Fitness:     #(23.20041 23.675154 23.211481 23.778301 23.439104 23.077618 23.269968
+                    23.28551 23.397076 23.547068 ...)
+ Std Fit Vector:  #(0.08041 0.094846725 0.13148117 0.1583004 0.18910408 0.027618408
+                    0.009967804 0.16550827 0.5870762 0.1370678 ...)
+ Std Fit (sum):   4.5073776
+ Std Fit % Avg:   0.64349186
+ 
+ 
+ 
+ 
+ CL-USER(91): (test2 12870 12900 30 250 750)
+ 
+ Parameters used for this run.
+=============================
+Maximum number of Generations:                    250
+Size of Population:                               750
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        8
+Maximum depth of individuals after crossover:     40
+Fitness-proportionate reproduction fraction:      0.01
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Number of fitness cases:                          30
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0d0
+
+
+The best-of-run individual program for this run was found on 
+generation 14 and had a standardized fitness measure of 4.4002132 and 24 hits. 
+It was:
+(+ (- (+ *STOCK-3-SLOPE* *STOCK-CLOSE*) *STOCK-3-SLOPE*)
+   (% *STOCK-3-SLOPE* (RLOG (- *STOCK-OPEN* (- *STOCK-ADJ-CLOSE* *STOCK-3-SLOPE*)))))
+
+Program:          (+ (- (+ *STOCK-3-SLOPE* *STOCK-CLOSE*) *STOCK-3-SLOPE*)
+                     (% *STOCK-3-SLOPE*
+                        (RLOG (- *STOCK-OPEN* (- *STOCK-ADJ-CLOSE* *STOCK-3-SLOPE*)))))
+ Raw Fitness:     #(23.348814 23.659546 23.452652 23.44407 23.718729 23.395113 23.334217
+                    23.381878 23.230825 23.754074 ...)
+ Std Fit Vector:  #(0.028814316 0.21954536 0.037347794 0.19407082 0.30872917 0.105112076
+                    0.12578201 0.14187813 0.039175034 0.13407326 ...)
+ Std Fit (sum):   4.4002132
+ Std Fit % Avg:   0.6276346
+ 
+ 
+ 
+ 
+ 
+CL-USER(93): (test2 12870 12900 30 250 750)
+
+ Parameters used for this run.
+=============================
+Maximum number of Generations:                    250
+Size of Population:                               750
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        6
+Maximum depth of individuals after crossover:     40
+Fitness-proportionate reproduction fraction:      0.005
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Number of fitness cases:                          30
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0d0
+8399400 bytes have been tenured, next gc will be global.
+See the documentation for variable *GLOBAL-GC-BEHAVIOR* for more information.
+
+
+The best-of-run individual program for this run was found on 
+generation 135 and had a standardized fitness measure of 4.4090633 and 27 hits. 
+It was:
+(- (- *STOCK-CLOSE* *STOCK-3-SLOPE*) (RLOG (SIN *STOCK-7-DAY*)))
+
+Program:          (- (- *STOCK-CLOSE* *STOCK-3-SLOPE*)
+                     (RLOG (SIN *STOCK-7-DAY*)))
+ Raw Fitness:     #(23.739687 23.640211 23.171797 23.53006 22.986807 23.407606
+                    23.397808 23.281824 23.158052 23.659113 ...)
+ Std Fit Vector:  #(0.11968613 0.23021126 0.091796875 0.040060043 0.06319237
+                    0.59760666 0.10780716 0.16182327 0.18194771 0.11088753 ...)
+ Std Fit (sum):   4.4090633
+ Std Fit % Avg:   0.63017166
+ 
+ 
+ 
+ 
+ CL-USER(95): (test2 12800 12900 100 250 750)
+ 
+ Parameters used for this run.
+=============================
+Maximum number of Generations:                    250
+Size of Population:                               750
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        6
+Maximum depth of individuals after crossover:     40
+Fitness-proportionate reproduction fraction:      0.005
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Number of fitness cases:                          100
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0d0
+ 
+ 
+ The best-of-run individual program for this run was found on 
+generation 198 and had a standardized fitness measure of 17.795355 and 71 hits. 
+It was:
+(- *STOCK-CLOSE*
+   (% (SIN (SIN (* *STOCK-OPEN* (SRT *STOCK-CLOSE*)))) *STOCK-ADJ-CLOSE*))
+
+Program:          (- *STOCK-CLOSE*
+                     (% (SIN (SIN (* *STOCK-OPEN* #))) *STOCK-ADJ-CLOSE*))
+ Raw Fitness:     #(21.119835 20.912752 21.019348 23.293133 21.347675
+                    23.063585 21.395922 22.486006 22.027037 23.384861 ...)
+ Std Fit Vector:  #(0.2998352 0.25724792 0.1493473 0.07686806 0.062324524
+                    0.30641556 0.06407738 0.013994217 0.26296425 0.14486122
+                    ...)
+ Std Fit (sum):   17.795355
+ Std Fit % Avg:   0.8108449
+ 
+ 
+ 
+ 

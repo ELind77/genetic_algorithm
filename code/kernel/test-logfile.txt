@@ -1,0 +1,32 @@
+
+Generation 0: Average standardized-fitness = 105.57362. 
+The best individual program of the population had a 
+standardized fitness measure of 97.52579 and 0 hits. 
+It was: 
+(SRT (- (RLOG (% (RLOG *STOCK-3-SLOPE*) (- *STOCK-30-DAY* *STOCK-3-SLOPE*)))
+        (% (- (+ *STOCK-7-DAY* *STOCK-CLOSE*) (+ *STOCK-CLOSE* *STOCK-HIGH*))
+           (- (SRT *STOCK-3-SLOPE*) (+ *STOCK-7-DAY* *STOCK-3-SLOPE*)))))
+
+Generation 1: Average standardized-fitness = 81.69829. 
+The best individual program of the population had a 
+standardized fitness measure of 2.2299848 and 2 hits. 
+It was: 
+(+ *STOCK-7-DAY* *STOCK-3-SLOPE*)
+
+Generation 2: Average standardized-fitness = 2.2299848. 
+The best individual program of the population had a 
+standardized fitness measure of 2.2299848 and 2 hits. 
+It was: 
+(+ *STOCK-7-DAY* *STOCK-3-SLOPE*)
+
+Generation 3: Average standardized-fitness = 2.2299848. 
+The best individual program of the population had a 
+standardized fitness measure of 2.2299848 and 2 hits. 
+It was: 
+(+ *STOCK-7-DAY* *STOCK-3-SLOPE*)
+
+Generation 4: Average standardized-fitness = 2.2299848. 
+The best individual program of the population had a 
+standardized fitness measure of 2.2299848 and 2 hits. 
+It was: 
+(+ *STOCK-7-DAY* *STOCK-3-SLOPE*)

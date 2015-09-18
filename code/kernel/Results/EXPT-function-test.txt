@@ -1,0 +1,143 @@
+Results with EXPT function
+
+
+CL-USER(75): (test2 "1/11/1999" 10)
+Genetic Program commencing run!
+
+  COPMLETED RUN!!!
+================================================
+ Run time: 92 minutes 42.751007 seconds
+
+
+Parameters used for this run.
+=================================================
+Maximum number of Generations:                    75
+Size of Population:                               500
+Maximum depth of new individuals:                 6
+Maximum depth of new subtrees for mutants:        6
+Maximum depth of individuals after crossover:     30
+Fitness-proportionate reproduction fraction:      0.01
+Crossover at any point fraction:                  0.2
+Crossover at function points fraction:            0.7
+Number of fitness cases:                          10
+Selection method:                                 FITNESS-PROPORTIONATE
+Generation method:                                RAMPED
+Randomizer seed:                                  1.0
+
+Best of run individual program:
+ Generation:       58
+ 
+ Hits:             7
+ Raw Fitness:     #(97.84146 96.815575 97.77381 99.11509 99.84945 100.0016
+                    99.001755 100.30849 101.1756 101.8409)
+ Std Fit Vector:  #(0.09146118 0.2555771 0.7138138 1.6349106 1.5905533 0.6916046
+                    1.131752 0.19151306 0.82440186 0.3408966)
+ Std Fit (sum):   7.466484
+ Std Fit Avg %:   0.74718475
+ Function Nodes:  120
+ Function Depth:  22
+ Function:        (+ *STOCK-30-DAY*
+                     (SRT (SRT (% (- *STOCK-ADJ-CLOSE*
+                                     (+ (* (+
+                                            (*
+                                             (-
+                                              *STOCK-ADJ-CLOSE*
+                                              (+
+                                               (*
+                                                *STOCK-CLOSE*
+                                                (RSIN (RLOG (RSIN *STOCK-LOW*))))
+                                               *STOCK-CLOSE*))
+                                             (RSIN
+                                              (%
+                                               (-
+                                                *STOCK-ADJ-CLOSE*
+                                                (+
+                                                 (%
+                                                  (-
+                                                   *STOCK-ADJ-CLOSE*
+                                                   (+
+                                                    (*
+                                                     *STOCK-CLOSE*
+                                                     *STOCK-30-DAY*)
+                                                    *STOCK-CLOSE*))
+                                                  (RSIN
+                                                   (+
+                                                    *STOCK-30-DAY*
+                                                    *STOCK-OPEN*)))
+                                                 *STOCK-CLOSE*))
+                                               (RSIN
+                                                (+
+                                                 *STOCK-30-DAY*
+                                                 *STOCK-CLOSE*)))))
+                                            *STOCK-CLOSE*)
+                                           (RSIN (RSIN *STOCK-3-SLOPE*)))
+                                        *STOCK-CLOSE*))
+                                  (% (SRT (SRT (SRT
+                                                (+
+                                                 (*
+                                                  *STOCK-CLOSE*
+                                                  (RSIN
+                                                   (SRT
+                                                    (*
+                                                     *STOCK-CLOSE*
+                                                     *STOCK-3-SLOPE*))))
+                                                 *STOCK-CLOSE*))))
+                                     (RSIN (RSIN
+                                            (SRT
+                                             (%
+                                              (-
+                                               *STOCK-ADJ-CLOSE*
+                                               (+
+                                                *STOCK-30-DAY*
+                                                (SRT
+                                                 (SRT
+                                                  (SRT
+                                                   (%
+                                                    (-
+                                                     *STOCK-ADJ-CLOSE*
+                                                     (+
+                                                      (*
+                                                       *STOCK-CLOSE*
+                                                       (RSIN
+                                                        (*
+                                                         *STOCK-CLOSE*
+                                                         *STOCK-CLOSE*)))
+                                                      *STOCK-CLOSE*))
+                                                    (RSIN
+                                                     (+
+                                                      *STOCK-30-DAY*
+                                                      *STOCK-7-DAY*))))))))
+                                              (RSIN
+                                               (*
+                                                (RLOG *STOCK-HIGH*)
+                                                (%
+                                                 (SRT
+                                                  (SRT
+                                                   (SRT
+                                                    (%
+                                                     (+
+                                                      (*
+                                                       *STOCK-CLOSE*
+                                                       (RSIN
+                                                        (*
+                                                         *STOCK-CLOSE*
+                                                         *STOCK-3-SLOPE*)))
+                                                      *STOCK-CLOSE*)
+                                                     (+
+                                                      (-
+                                                       (%
+                                                        (*
+                                                         *STOCK-OPEN*
+                                                         *STOCK-7-DAY*)
+                                                        *STOCK-VOLUME*)
+                                                       (RLOG
+                                                        (SRT
+                                                         (*
+                                                          *STOCK-CLOSE*
+                                                          *STOCK-3-SLOPE*))))
+                                                      (*
+                                                       *STOCK-7-DAY*
+                                                       *STOCK-7-DAY*))))))
+                                                 *STOCK-OPEN*))))))))))))
+
+NIL
